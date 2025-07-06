@@ -7,4 +7,4 @@
 - If you want to **improve**, be content to be thought **foolish** and **stupid** - Epictetus #quotes
 - If you were answered with **silence**, this does not mean that you were not answered. - Plato #quotes
 - You are never too old to set another goal or to dream a new dream - C.S. Lewis #quotes
-- icon:: 🖋️
+- page-icon:: 🖋️
