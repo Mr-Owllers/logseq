@@ -1,3 +1,4 @@
+- “Two things are infinite: the **universe** and human **stupidity**; and I'm not sure about the universe.” Albert Einstein #quotes
 - “Education is **bitter**, but its fruit is **sweet**.” Aristotle #quotes
 - "Good actions give **strength** to ourselves and **inspire** good actions in others." Plato #quotes
 - "Never trust a **friend** who speaks bad of his comrades." Pythagoras #quotes
