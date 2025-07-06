@@ -12,7 +12,7 @@ icon::  🧅
 	- **TOR (The Onion Router):** This free software is the key to accessing the dark web. It bounces your internet traffic through a maze-like network of servers (called nodes) around the world, making it extremely difficult to pinpoint your actual location or activity.
 	  logseq.order-list-type:: number
 	  [[TOR Network]]
-	  ![TOR Network](../../assets/image_1751802556299_0.png){:height 564, :width 1084}
+	  ![TOR Network](https://github.com/Mr-Owllers/logseq/blob/main/assets/image_1751802556299_0.png?raw=true){:height 564, :width 1084}
 	- **.onion Addresses:** These specialized domains are like hidden doorways to dark web websites. Unlike regular websites, they require the TOR browser to be accessed.
 	  logseq.order-list-type:: number
 	- **Onion Routing:** Think of it like your data wrapped in layers of encryption, like an onion. Each TOR node peels away a layer, only knowing where to send it next. No single node knows both where the traffic came from and where it's going. This makes tracking you near impossible.
