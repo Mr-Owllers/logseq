@@ -421,4 +421,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "do MMM yyyy"
  :graph/settings {:journal? true
- :builtin-pages? true}}
+ :builtin-pages? false
+ :excluded-pages? true
+ :orphan-pages? true}
+ :graph/forcesettings {:link-dist 30}}
