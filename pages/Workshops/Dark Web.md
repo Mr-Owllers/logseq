@@ -1,4 +1,3 @@
-public:: true
 banner:: https://www.bleepstatic.com/content/hl-images/2020/08/19/Tor-headpic.jpg
 banner-height:: 350px
 icon::  🧅
