@@ -45,7 +45,7 @@ icon::  🧅
 	  logseq.order-list-type:: number
 	- **Lack of Centralized Control:** There's no single authority enforcing rules or regulations on the dark web. This lawless space enables criminal enterprises to operate more freely.
 	  logseq.order-list-type:: number
-- #### Navigating the Darknet Markets:
+- #### ^^Navigating the Darknet Markets:^^
 	- The potential risks for anyone venturing into a darknet market must not be underestimated:
 		- **Danger of Fraud:** Payment scams and sudden market disappearances are common, leaving buyers at a great loss.
 		  logseq.order-list-type:: number
