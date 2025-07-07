@@ -11,7 +11,7 @@ icon::  🧅
 	- ![The Iceberg of the Internet](../../assets/whatis-dark_web_mobile_1751778937094_0.png){:height 543, :width 491}
 	- The surface web aka the clearnet is what we can find easily using things like google, only 4% of the internet is on the surface web.
 	- The deep web is all the things that can't be found easily, but aren't necessarily a part of the darknet; On this level lie the netbanking sites, private data, medical records, etc. 90% of the internet is on the deep web.
-	- The dark web aka the darknet consists all the information that can't be accessed with normal tools, only special tools like the TOR browser can be used to access this level. Only 4% of the internet is on the dark web.
+	- The dark web aka the darknet consists all the information that can't be accessed with normal tools, only special tools like the TOR browser can be used to access this level. Only 6% of the internet is on the dark web.
 - ### Tools of the Trade:
 	- **TOR (The Onion Router):** This free software is the key to accessing the dark web. It bounces your internet traffic through a maze-like network of servers (called nodes) around the world, making it extremely difficult to pinpoint your actual location or activity.
 	  logseq.order-list-type:: number
