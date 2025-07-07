@@ -15,7 +15,7 @@ icon::  🧅
 	  ![TOR Network](https://github.com/Mr-Owllers/logseq/blob/main/assets/image_1751802556299_0.png?raw=true){:height 564, :width 1084}
 	- **.onion Addresses:** These specialized domains are like hidden doorways to dark web websites. Unlike regular websites, they require the TOR browser to be accessed.
 	  logseq.order-list-type:: number
-	- **Onion Routing:** Think of it like your data wrapped in layers of encryption, like an onion. Each TOR node peels away a layer, only knowing where to send it next. No single node knows both where the traffic came from and where it's going. This makes tracking you near impossible.
+	- **Onion Routing:** Think of it like your data wrapped in layers of encryption. Similar to how ogres are like onions, eve . Each TOR node peels away a layer, only knowing where to send it next. No single node knows both where the traffic came from and where it's going. This makes tracking you near impossible.
 	  logseq.order-list-type:: number
 	  ![Definition of onion routing](https://i.pcmag.com/imagery/encyclopedia-terms/onion-routing-onion.fit_lim.size_1050x.jpg)
 	- **The CIA's Onion Link:** The CIA's presence on the dark web [http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion] is a great example. It provides a way for people to submit tips or information securely, even in countries where contacting the agency openly would be dangerous.
