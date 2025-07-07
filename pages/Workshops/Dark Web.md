@@ -5,7 +5,8 @@ icon::  🧅
 - # What is the dark web?
 - ### The Origins
 	- Contrary to popular belief, the technologies made for the dark web wasn't originally made for criminal activities.
-	- Developed by the US Naval Research Laboratory, the aim was to protect the communications of intelligence agencies. This focus on untraceable online activity was the starting-point for the tools that both enable and shield users on the dark web today. The reason dark web is called `dark web` is because its pretty much like a room with no lights! If you go inside one, you can't be seen by anyone and you also can't see anyone other than the thing/person you were looking for.
+	- Developed by the US Naval Research Laboratory, the aim was to protect the communications of intelligence agencies. This focus on untraceable online activity was the starting-point for the tools that both enable and shield users on the dark web today.
+	- The reason dark web is called `dark web` is because its pretty much like a room with no lights! If you go inside one, you can't be seen by anyone and you also can't see anyone other than the thing/person you were looking for.
 - ### The Iceberg
 	- ![The Iceberg of the Internet](../../assets/whatis-dark_web_mobile_1751778937094_0.png){:height 543, :width 491}
 	- The surface web aka the clearnet is what we can find easily using things like google, only 4% of the internet is on the surface web.
