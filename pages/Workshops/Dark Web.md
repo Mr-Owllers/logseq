@@ -16,7 +16,8 @@ icon::  🧅
 	  logseq.order-list-type:: number
 	- **Onion Routing:** Think of it like your data wrapped in layers of encryption. Similar to how ogres are like onions, the dark web is also like an onion, they all have layers. Each TOR node peels away a layer, only knowing where to send it next. No single node knows both where the traffic came from and where it's going. This makes tracking you near impossible.
 	  logseq.order-list-type:: number
-	  ![Definition of onion routing](https://i.pcmag.com/imagery/encyclopedia-terms/onion-routing-onion.fit_lim.size_1050x.jpg){:height 726, :width 318}
+		- ![Definition of onion routing](https://i.pcmag.com/imagery/encyclopedia-terms/onion-routing-onion.fit_lim.size_1050x.jpg){:height 726, :width 318}
+		  logseq.order-list-type:: number
 	- **The CIA's Onion Link:** The CIA's presence on the dark web [http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion] is a great example. It provides a way for people to submit tips or information securely, even in countries where contacting the agency openly would be dangerous.
 	  logseq.order-list-type:: number
 - ### Safety Precautions:
