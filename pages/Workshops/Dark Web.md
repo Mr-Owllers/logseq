@@ -12,13 +12,11 @@ icon::  🧅
 	- **TOR (The Onion Router):** This free software is the key to accessing the dark web. It bounces your internet traffic through a maze-like network of servers (called nodes) around the world, making it extremely difficult to pinpoint your actual location or activity.
 	  logseq.order-list-type:: number
 	  [[TOR Network]]
-	- ![TOR Network](https://github.com/Mr-Owllers/logseq/blob/main/assets/image_1751802556299_0.png?raw=true){:height 564, :width 1084}
-	  logseq.order-list-type:: number
 	- **.onion Addresses:** These specialized domains are like hidden doorways to dark web websites. Unlike regular websites, they require the TOR browser to be accessed.
 	  logseq.order-list-type:: number
 	- **Onion Routing:** Think of it like your data wrapped in layers of encryption. Similar to how ogres are like onions, the dark web is also like an onion, they all have layers. Each TOR node peels away a layer, only knowing where to send it next. No single node knows both where the traffic came from and where it's going. This makes tracking you near impossible.
 	  logseq.order-list-type:: number
-	  ![Definition of onion routing](https://i.pcmag.com/imagery/encyclopedia-terms/onion-routing-onion.fit_lim.size_1050x.jpg)
+	  ![Definition of onion routing](https://i.pcmag.com/imagery/encyclopedia-terms/onion-routing-onion.fit_lim.size_1050x.jpg){:height 726, :width 318}
 	- **The CIA's Onion Link:** The CIA's presence on the dark web [http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion] is a great example. It provides a way for people to submit tips or information securely, even in countries where contacting the agency openly would be dangerous.
 	  logseq.order-list-type:: number
 - ### Safety Precautions:
