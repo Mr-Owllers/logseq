@@ -26,4 +26,6 @@
 - # Laws of Chemical Combination
 	- **List the Laws of Chemical Combination along with who discovered it** #card
 		- Law of Conservation of Mass [Lavoisier]
-		- Law of Definite
+		- Law of Definite Propotion [Proust]
+		- Law of Multiple Propotion [Dalton]
+		- Law of Gaseous Volumes [Gay ]
