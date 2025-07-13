@@ -21,5 +21,5 @@
 			- $0.200 = 3$
 			- $125000 = 3$
 	- **How to report the answer in correct no. of significant figures?** #card
-		- 2Round off to the smallest digits present on the LHS after the decimal point using *Banker's Rounding*
-		  * *Banker's Rounding*: round $5$ to the closest even, example: $0.15 \rightarrow 0.2$, $0.25 \rightarrow 0.2$
+		- Round off to the smallest digits present on the LHS after the decimal point using *Banker's Rounding*
+			- Banker's Rounding*: round $5$ to the closest even, example: $0.15 \rightarrow 0.2$, $0.25 \rightarrow 0.2$, $0.17 $
