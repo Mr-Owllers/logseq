@@ -75,6 +75,7 @@
 			- $$
 			  H + O = Water\newline
 			  2g + 16g = 18g\newline
-			  H + O = Hydrogen Peroxide\newline
-			  2g + 32
+			  H + O = Hydrogen\space Peroxide\newline
+			  2g + 32g = 34g
 			  $$
+			  $$16:32 \rightarrow 1:2$$
