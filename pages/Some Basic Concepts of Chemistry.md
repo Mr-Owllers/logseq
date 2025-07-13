@@ -35,4 +35,6 @@
 		  logseq.order-list-type:: number
 		- Avogadro's Law **[Avogadro]**
 		  logseq.order-list-type:: number
-	- **Define Law 1**
+	- **Define Law of Conservation of Mass** #card
+		- Energy can neither be created nor destroyed in a chemical reaction
+	-
