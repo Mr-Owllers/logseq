@@ -82,5 +82,6 @@
 		- **Law of Gaseous Volumes** #card
 			- When gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume provided all gases are at the same temperature and pressure
 			- $$
-			  H(100mL)+O(50mL)\rightarrow 
+			  H(100mL)+O(50mL)\rightarrow Water(100mL)\newline
+			  100:50:100\rightarrow 2:1:2
 			  $$
