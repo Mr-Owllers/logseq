@@ -1,6 +1,13 @@
 - This is where i keep my study notes! :>
 - ### Physics
+	- EMPTY
 - ### Chemistry
+	-
 - ### InfoPrac
+	- EMPTY
 - ### Psychology
-- ### Maths
+	- EMPTY
+- ### English
+	- EMPTY
+- ### Math
+	- EMPTY
