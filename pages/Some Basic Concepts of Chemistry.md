@@ -55,7 +55,6 @@
 	  card-ease-factor:: 2.6
 	  card-last-reviewed:: 2025-07-13T13:20:10.070Z
 		- **Law of Conservation of Mass** #card
-		  logseq.order-list-type:: number
 		  card-last-interval:: 4
 		  card-repeats:: 1
 		  card-ease-factor:: 2.6
@@ -64,11 +63,11 @@
 		  card-last-score:: 5
 			- Energy can neither be created nor destroyed in a chemical reaction
 		- **Law of Definite Propotion** #card
-		  logseq.order-list-type:: number
 		  card-last-interval:: 4
 		  card-repeats:: 1
 		  card-ease-factor:: 2.6
 		  card-next-schedule:: 2025-07-17T13:19:32.586Z
 		  card-last-reviewed:: 2025-07-13T13:19:32.586Z
 		  card-last-score:: 5
-			- A given compound always contains exactly
+			- A given compound always contains exactly the same propotion of element by weight
+		-
