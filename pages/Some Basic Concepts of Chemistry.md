@@ -5,4 +5,8 @@
 - # Significant Figures
 - **What are significant figures?** #card
 	- Meaningful digits which are known with certainity
-	  All non-zero
+	  All non-zeroes are significant
+	- Examples:
+		- $285 = 3$
+		- $0.0012 = 2$
+		- $
