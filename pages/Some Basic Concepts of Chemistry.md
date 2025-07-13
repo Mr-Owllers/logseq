@@ -4,4 +4,5 @@
 	  $0.0025 = 2.5 * 10^{-3}$
 - # Significant Figures
 - **What are significant figures?** #card
-	- Meaningful digits which are known with cer
+	- Meaningful digits which are known with certainity
+	  All non-zero
