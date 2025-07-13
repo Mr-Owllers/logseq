@@ -79,4 +79,5 @@
 			  2g + 32g = 34g
 			  $$
 			  $$16:32 \rightarrow 1:2$$
-		- **Law of Gaseous
+		- **Law of Gaseous Volumes** #card
+			- When gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume provided all
