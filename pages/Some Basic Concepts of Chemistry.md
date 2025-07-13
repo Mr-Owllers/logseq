@@ -73,7 +73,7 @@
 		- **Law of Multiple Propotions** #card
 			- If 2 elements combine to form more than 1 compound, the masses of one element that combine with a fluid mass of the other element are in the ratio of small whole numbers
 			- $$
-			  H + O = Water
-			  $$$$$
-			  2g  16g  18g
+			  H + O = Water\newline
+			  2g + 16g = 18g\newline
+			  H + 
 			  $$
