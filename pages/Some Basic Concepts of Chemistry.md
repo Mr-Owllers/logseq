@@ -86,4 +86,5 @@
 			  100:50:100\rightarrow 2:1:2
 			  $$
 		- **Avogadro's Law** #card
-			- Equal volume of all gases at the same temperature
+			- Equal volume of all gases at the same temperature and pressure should contain equal number of molecules
+-
