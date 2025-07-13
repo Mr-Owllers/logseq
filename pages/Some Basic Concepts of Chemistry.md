@@ -37,4 +37,5 @@
 		  logseq.order-list-type:: number
 	- **Define Law of Conservation of Mass** #card
 		- Energy can neither be created nor destroyed in a chemical reaction
-	-
+	- **Define Law of Definite Propotion** #card
+		-
