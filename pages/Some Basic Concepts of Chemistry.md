@@ -4,6 +4,12 @@
 	- $0.0025 = 2.5 * 10^{-3}$
 - # Significant Figures
 - **What are significant figures?** #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2025-07-17T12:34:27.590Z
+  card-last-reviewed:: 2025-07-13T12:34:27.592Z
+  card-last-score:: 5
 	- Meaningful digits which are known with certainity
 	  * All non-zeroes are significant
 	- Examples:
@@ -14,3 +20,4 @@
 		- $2.0034 = 5$
 		- $0.200 = 3$
 		- $125000 = 3$
+-
