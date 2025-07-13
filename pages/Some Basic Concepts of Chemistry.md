@@ -26,7 +26,13 @@
 - # Laws of Chemical Combination
 	- **List the Laws of Chemical Combination along with who discovered it** #card
 		- Law of Conservation of Mass **[Lavoisier]**
+		  logseq.order-list-type:: number
 		- Law of Definite Propotion **[Proust]**
+		  logseq.order-list-type:: number
 		- Law of Multiple Propotion **[Dalton]**
+		  logseq.order-list-type:: number
 		- Law of Gaseous Volumes **[Gay Lussac]**
+		  logseq.order-list-type:: number
 		- Avogadro's Law **[Avogadro]**
+		  logseq.order-list-type:: number
+	- **Define Law 1**
