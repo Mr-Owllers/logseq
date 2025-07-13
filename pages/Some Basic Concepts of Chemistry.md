@@ -41,7 +41,7 @@
 		  logseq.order-list-type:: number
 		- Law of Definite Propotion **[Proust]**
 		  logseq.order-list-type:: number
-		- Law of Multiple Propotion **[Dalton]**
+		- Law of Multiple Propotions **[Dalton]**
 		  logseq.order-list-type:: number
 		- Law of Gaseous Volumes **[Gay Lussac]**
 		  logseq.order-list-type:: number
@@ -70,4 +70,5 @@
 		  card-last-reviewed:: 2025-07-13T13:19:32.586Z
 		  card-last-score:: 5
 			- A given compound always contains exactly the same propotion of element by weight
-		-
+		- **Law of Multiple Propotions** #card
+			-
