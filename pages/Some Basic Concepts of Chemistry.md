@@ -24,5 +24,6 @@
 		- Round off to the smallest digits present on the LHS after the decimal point using *Banker's Rounding*
 			- *Banker's Rounding*: round $5$ to the closest even, example: $0.15 \rightarrow 0.2$, $0.25 \rightarrow 0.2$, $0.16 \rightarrow 0.2$, $0.14 \rightarrow 0.1$
 - # Laws of Chemical Combination
-	- **List the Laws of Chemical Combination along with who ** #card
-		-
+	- **List the Laws of Chemical Combination along with who discovered it** #card
+		- Law of Conservation of Mass [Lavoisier]
+		- Law of Definite
