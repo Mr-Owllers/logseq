@@ -71,4 +71,4 @@
 		  card-last-score:: 5
 			- A given compound always contains exactly the same propotion of element by weight
 		- **Law of Multiple Propotions** #card
-			-
+			- If 2 elements combine to form more than 1 compound,
