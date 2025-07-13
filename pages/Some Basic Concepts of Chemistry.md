@@ -85,3 +85,5 @@
 			  H(100mL)+O(50mL)\rightarrow Water(100mL)\newline
 			  100:50:100\rightarrow 2:1:2
 			  $$
+		- **Avogadro's Law** #card
+			- Equal volume of all gases at the same temperature
