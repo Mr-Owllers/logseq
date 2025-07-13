@@ -1,6 +1,6 @@
 - This is where i keep my study notes! :>
-- ### Physics]]
-- ### Chemistry
+- ### [[Physics]]
+- ### [[Chemistry]]
 - ### InfoPrac
 - ### Psychology
 - ### English
