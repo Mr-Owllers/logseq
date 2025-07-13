@@ -1,7 +1,8 @@
+- icon
 - This is where i keep my study notes! :>
 - ### [[Physics]]
 - ### [[Chemistry]]
-- ### InfoPrac
-- ### Psychology
-- ### English
-- ### Math
+- ### [[InfoPrac]]
+- ### [[Psychology]]
+- ### [[English]]
+- ### [[Math]]
