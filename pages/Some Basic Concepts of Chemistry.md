@@ -47,10 +47,28 @@
 		  logseq.order-list-type:: number
 		- Avogadro's Law **[Avogadro]**
 		  logseq.order-list-type:: number
-	- **Define** #card
+	- **Define** #cards
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-07-17T13:20:10.070Z
+	  card-last-reviewed:: 2025-07-13T13:20:10.070Z
+	  card-last-score:: 5
 		- **Law of Conservation of Mass** #card
 		  logseq.order-list-type:: number
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-07-17T13:19:29.851Z
+		  card-last-reviewed:: 2025-07-13T13:19:29.852Z
+		  card-last-score:: 5
 			- Energy can neither be created nor destroyed in a chemical reaction
 		- **Law of Definite Propotion** #card
 		  logseq.order-list-type:: number
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-07-17T13:19:32.586Z
+		  card-last-reviewed:: 2025-07-13T13:19:32.586Z
+		  card-last-score:: 5
 			-
