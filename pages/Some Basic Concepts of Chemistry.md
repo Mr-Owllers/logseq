@@ -80,4 +80,7 @@
 			  $$
 			  $$16:32 \rightarrow 1:2$$
 		- **Law of Gaseous Volumes** #card
-			- When gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume provided all
+			- When gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume provided all gases are at the same temperature and pressure
+			- $$
+			  H(100mL)+O(50mL)\rightarrow 
+			  $$
