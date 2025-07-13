@@ -21,4 +21,5 @@
 			- $0.200 = 3$
 			- $125000 = 3$
 	- **How to report the answer in correct no. of significant figures?** #card
-		- 0.58 + 324
+		- $0.58 + 324.65 = 325.23$
+		- $2.5 + 5.63 + 20.202 = $
