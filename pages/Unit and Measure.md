@@ -1,2 +1,4 @@
-- **What are physical quantities?**
-	- All measure quantities are called measurable quati
+# Physical Quantities
+- **What are physical quantities?** #card
+	- All measure quantities are called physical quatities
+- ##
